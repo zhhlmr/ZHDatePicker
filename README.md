@@ -1,6 +1,6 @@
 # ZHDatePicker
 
-An simple custom iOS date picker.
+A simple custom iOS date picker.
 
 
 ![Alt text](/screen.png)
