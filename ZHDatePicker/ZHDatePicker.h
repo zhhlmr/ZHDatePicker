@@ -26,9 +26,9 @@ typedef enum {
 
 @property(nonatomic, weak) id <ZHDatePickerDelegate> delegate;
 
-@property(nonatomic, assign) NSInteger minYear;
+@property(nonatomic, assign) NSInteger minYear;//default : 1960
 
-@property(nonatomic, assign) NSInteger maxYear;
+@property(nonatomic, assign) NSInteger maxYear;//default : 100 + today's year
 
 @property(nonatomic, assign) ZHDatePickerDisplayMode pickerDisplayMode;
 

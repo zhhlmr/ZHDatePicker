@@ -144,7 +144,7 @@
 
 - (void)_initilization {
 
-    [self setBackgroundColor:[UIColor colorWithWhite:0.0f alpha:0.3f]];
+    [self setBackgroundColor:[UIColor colorWithWhite:0.0f alpha:0.1f]];
     [self _createView];
     [self.layer setOpacity:0.0f];
 
