@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZHDatePicker_Example' do
+  pod 'ZHDatePicker', :path => '../'
+
+  target 'ZHDatePicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
