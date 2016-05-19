@@ -1,0 +1,6 @@
+framework module ZHDatePicker {
+  umbrella header "ZHDatePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

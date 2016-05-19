@@ -1,0 +1,16 @@
+PODS:
+  - ZHDatePicker (0.1.0)
+
+DEPENDENCIES:
+  - ZHDatePicker (from `../`)
+
+EXTERNAL SOURCES:
+  ZHDatePicker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZHDatePicker: 898c022c4aeea273e74366a0db4d167f5c4d4915
+
+PODFILE CHECKSUM: 030ee5baa20d9d397c6958fb2b066d73543eb980
+
+COCOAPODS: 1.0.0

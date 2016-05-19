@@ -1,0 +1,6 @@
+framework module Pods_ZHDatePicker_Tests {
+  umbrella header "Pods-ZHDatePicker_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
